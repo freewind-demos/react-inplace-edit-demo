@@ -1,7 +1,7 @@
-React State Demo
-======================
+React Base Project
+==================
 
-Use state in react component.
+React base project.
 
 ```
 npm install
