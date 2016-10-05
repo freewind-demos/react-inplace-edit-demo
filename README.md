@@ -1,7 +1,7 @@
-React Base Project
-==================
+React Inplace Edit Demo
+=======================
 
-React base project.
+双击字符串出现text input，修改内容并回车后，变成修改后的字符串
 
 ```
 npm install
