@@ -6,9 +6,6 @@ class Hello extends Component {
     return <div>Hello world!</div>;
   }
 
-  handleNewUsername(event) {
-    this.setState({username: event.target.value});
-  }
 }
 
 export default Hello;
